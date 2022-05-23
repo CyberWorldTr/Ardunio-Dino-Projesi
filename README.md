@@ -1,8 +1,8 @@
-# Ardunio Otomatik Dino Oyunu Projesi
+# Arduino Otomatik Dino Oyunu Projesi
 
 Gerekli Malzemeler
 =
-    Ardunio Uno
+    Arduino Uno
     Servo Motor
     10k Ohm Direnç
     LDR
